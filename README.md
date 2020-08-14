@@ -11,3 +11,7 @@ Las carpetas con los comandos y los resultados obtenidos se encuentran en el rep
   * COVID-Human
   
 Las redes utilizadas tambien se encuentran en la carpeta Networks del repositorio.
+
+#### El reto 
+  
+Utilizar NetworkX para calcular las medidas de la teoría de redes en cada una de las tres redes PPI (COVID-Human, Human, Drug-Human). Y mostrar las distribuciones de las medidas.
